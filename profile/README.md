@@ -34,6 +34,8 @@ This organization hosts selected public tooling, examples, templates, documentat
 
 Production infrastructure, client systems, credentials, and proprietary internal services remain private.
 
+Start with the [CodeVelo public documentation](https://github.com/CodeVeloHQ/codevelo-docs) for an overview of the platform, service capabilities, architecture principles, and public release boundaries.
+
 ## Connect with CodeVelo
 
 - Website: [codevelo.dev](https://codevelo.dev)

@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: CodeVelo project and service inquiries
+    url: https://codevelo.dev/contact
+    about: Contact CodeVelo about projects, managed services, or support.
+  - name: Security reports
+    url: https://codevelo.dev/contact
+    about: Report suspected vulnerabilities privately; do not open a public issue.
+

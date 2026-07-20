@@ -1,0 +1,34 @@
+name: Documentation issue
+description: Report inaccurate, missing, or unclear public documentation.
+title: "[Docs]: "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for helping improve CodeVelo documentation.
+  - type: input
+    id: location
+    attributes:
+      label: Documentation location
+      description: Link to the page or identify the file and section.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is inaccurate or unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Public-information check
+      options:
+        - label: This report contains no credentials, client data, or private infrastructure details.
+          required: true
+
