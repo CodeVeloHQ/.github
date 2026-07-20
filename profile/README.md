@@ -13,7 +13,7 @@ We bring software, infrastructure, deployment, and ongoing operations together u
 - Plan and implement commercial networks, Wi-Fi, and supporting infrastructure
 - Install and organize structured cabling, racks, and connected systems
 - Design and support conference-room audiovisual solutions
-- Build internal tooling that improves project delivery and platform operations
+- Build delivery tooling that improves project execution and platform operations
 
 ## Our approach
 
